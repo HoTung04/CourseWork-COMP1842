@@ -46,7 +46,6 @@
           english: '',
           german: '',
           vietnamese: '',
-          spanish: '',
           dutch:'',
         };
        }
